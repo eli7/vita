@@ -1,0 +1,3 @@
+A library with lots of goodies, data structures and algorithms.
+
+Implementations aspire to be both elegant and minimalistic (read also non-robust), in order to help both code readers and the code writer to learn about algorithms.
